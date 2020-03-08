@@ -1,0 +1,21 @@
+{
+  "name": "top-down-operator-precedence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shenfq/tdop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shenfq/tdop/issues"
+  },
+  "homepage": "https://github.com/Shenfq/tdop#readme"
+}

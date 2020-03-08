@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"alwaysStrict": true,
+    // "strict": true,
+    // "noImplicitAny": false,
+    "module": "commonjs",
+    "target": "es2017",
+		"outDir": "dist"
+	},
+  "include": [
+      "src/**/*", "types"
+  ]
+}
